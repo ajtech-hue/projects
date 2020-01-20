@@ -1,0 +1,628 @@
+ If the Passenger Books taxi Instantly with conditions (Its Not Holiday and Time is less than 8pm or 20.00 hrs )
+
+	i) When distance is 71.4 miles which is greater than 1 mile, Day Fare per mile method is called The output is :
+	
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+Yes
+
+*********Enter Booking Details*******
+
+Enter Passanger First Name : 
+Anurag.Jena
+Enter Passanger Mobile Number : 
+7498237899
+Enter City/Town : 
+Leicester
+Enter Journey Starting Point : 
+Brandon.Street
+Enter Starting Point PostCode : 
+Le46ay
+Enter Destination : 
+Luton.Wardown.Park
+Enter Destination PostCode : 
+Lu27ha
+Enter Journey Distance in Miles : 
+71.40
+Enter Waiting Time in Minutes : 
+5
+By Confirming Your Booking, You Accept to Agree To Terms and Conditions Of Book Your Taxi 
+Confirm Booking ? Yes or No 
+yes
+
+Booking Confirmed For Brandon.Street Le46ay to Luton.Wardown.Park Lu27ha
+Booking Reference No : BYT134111214
+Date: 2019-11-10 Time: 09:25:53.773
+
+View Booking Details (Yes/No)
+yes
+Passanger Name : Anurag.Jena
+Passanger Mobile Number : 7498237899
+Enter City/Town : Leicester
+Starting Point : Brandon.Street
+Starting Point PostCode : Le46ay
+Destination : Luton.Wardown.Park
+Destination PostCode : Lu27ha
+Journey Distance in Miles : 71.4 miles
+Alloted Waiting Time : 5.0 minutes
+
+Booking Confirmed For Brandon.Street Le46ay to Luton.Wardown.Park Lu27ha
+Booking Reference No : BYT134111214
+
+Booking Date : 2019-11-10
+Booking Time : 09:26:04.346
+
+Your Taxi is Enroute
+Your Taxi Details :
+
+[Driver Name:Ahmed Yusuf,
+ Taxi Model:Toyota Prius White,
+ Taxi Number:TPW8192,
+ Driver Licence:AYL9123568]
+
+Fare As Advised: £5.0
+
+Fare For Journey : £277.32
+Additional Charges Incurred Per Additional Mile : £1.6
+Additional Charges Incurred Per Additional Minute Waiting Time : 0.2p
+
+ii) When the distance is 0.9 miles which is less than 1 mile, Day fare per Half maile method called the output is :
+
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+Yes
+
+*********Enter Booking Details*******
+
+Enter Passanger First Name : 
+Anurag.Jena
+Enter Passanger Mobile Number : 
+7498237899
+Enter City/Town : 
+Leicester
+Enter Journey Starting Point : 
+Brandon.Street
+Enter Starting Point PostCode : 
+LE46AY
+Enter Destination : 
+Falcon.Cash&Carry
+Enter Destination PostCode : 
+LE12JU
+Enter Journey Distance in Miles : 
+0.70
+Enter Waiting Time in Minutes : 
+0
+By Confirming Your Booking, You Accept to Agree To Terms and Conditions Of Book Your Taxi 
+Confirm Booking ? Yes or No 
+yes
+
+Booking Confirmed For Brandon.Street LE46AY to Falcon.Cash&Carry LE12JU
+Booking Reference No : BYT482253646
+Date: 2019-11-10 Time: 09:36:20.358
+
+View Booking Details (Yes/No)
+yes
+Passanger Name : Anurag.Jena
+Passanger Mobile Number : 7498237899
+Enter City/Town : Leicester
+Starting Point : Brandon.Street
+Starting Point PostCode : LE46AY
+Destination : Falcon.Cash&Carry
+Destination PostCode : LE12JU
+Journey Distance in Miles : 0.7 miles
+Alloted Waiting Time : 0.0 minutes
+
+Booking Confirmed For Brandon.Street LE46AY to Falcon.Cash&Carry LE12JU
+Booking Reference No : BYT482253646
+
+Booking Date : 2019-11-10
+Booking Time : 09:36:22.105
+
+Your Taxi is Enroute
+Your Taxi Details :
+
+[Driver Name:Ahmed Yusuf,
+ Taxi Model:Toyota Prius White,
+ Taxi Number:TPW8192,
+ Driver Licence:AYL9123568]
+
+Fare As Advised: £5.0
+
+Fare For Journey : £7.1
+Additional Charges Incurred Per Additional Mile : £3.0
+Additional Charges Incurred Per Additional Minute Waiting Time : 0.2p
+
+
+
+
+ If the Passenger Books taxi Instantly with conditions (Its Not Holiday and Time is more than 8pm or 20.00 hrs or during Night time )
+
+	i) when distance is 1.5miles which is more than 1 mile, Night Fare per mile method is called
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+yes
+
+*********Enter Booking Details*******
+
+Enter Passanger First Name : 
+Anurag.Jena
+Enter Passanger Mobile Number : 
+7498237899
+Enter City/Town : 
+Leicester
+Enter Journey Starting Point : 
+Brandon.Street
+Enter Starting Point PostCode : 
+Le46ay
+Enter Destination : 
+DeMontfort.University
+Enter Destination PostCode : 
+Le19bh
+Enter Journey Distance in Miles : 
+1.50
+Enter Waiting Time in Minutes : 
+0
+By Confirming Your Booking, You Accept to Agree To Terms and Conditions Of Book Your Taxi 
+Confirm Booking ? Yes or No 
+yes
+
+Booking Confirmed For Brandon.Street Le46ay to DeMontfort.University Le19bh
+Booking Reference No : BYT265005085
+Date: 2019-11-10 Time: 21:40:09.789
+
+View Booking Details (Yes/No)
+yes
+Passanger Name : Anurag.Jena
+Passanger Mobile Number : 7498237899
+Enter City/Town : Leicester
+Starting Point : Brandon.Street
+Starting Point PostCode : Le46ay
+Destination : DeMontfort.University
+Destination PostCode : Le19bh
+Journey Distance in Miles : 1.5 miles
+Alloted Waiting Time : 0.0 minutes
+
+Booking Confirmed For Brandon.Street Le46ay to DeMontfort.University Le19bh
+Booking Reference No : BYT265005085
+
+Booking Date : 2019-11-10
+Booking Time : 21:40:13.128
+
+Your Taxi is Enroute
+Your Taxi Details :
+
+[Driver Name:Ahmed Yusuf,
+ Taxi Model:Toyota Prius White,
+ Taxi Number:TPW8192,
+ Driver Licence:AYL9123568]
+
+Fare As Advised: £5.0
+
+Fare For Journey : £11.3
+Additional Charges Incurred Per Additional Mile : £1.6
+Additional Charges Incurred Per Additional Minute Waiting Time : 0.2p
+
+ii) when the distance is 0.7 miles less than 1 mile, Night fare per half mile 
+
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+yes
+
+*********Enter Booking Details*******
+
+Enter Passanger First Name : 
+Anurag.Jena
+Enter Passanger Mobile Number : 
+7498237899
+Enter City/Town : 
+Leicester
+Enter Journey Starting Point : 
+Brandon.Street
+Enter Starting Point PostCode : 
+Le46ay
+Enter Destination : 
+Yours.Supermarket
+Enter Destination PostCode : 
+Le13ht
+Enter Journey Distance in Miles : 
+0.70
+Enter Waiting Time in Minutes : 
+2
+By Confirming Your Booking, You Accept to Agree To Terms and Conditions Of Book Your Taxi 
+Confirm Booking ? Yes or No 
+yes
+
+Booking Confirmed For Brandon.Street Le46ay to Yours.Supermarket Le13ht
+Booking Reference No : BYT546011196
+Date: 2019-11-10 Time: 21:44:46.583
+
+View Booking Details (Yes/No)
+yes
+Passanger Name : Anurag.Jena
+Passanger Mobile Number : 7498237899
+Enter City/Town : Leicester
+Starting Point : Brandon.Street
+Starting Point PostCode : Le46ay
+Destination : Yours.Supermarket
+Destination PostCode : Le13ht
+Journey Distance in Miles : 0.7 miles
+Alloted Waiting Time : 2.0 minutes
+
+Booking Confirmed For Brandon.Street Le46ay to Yours.Supermarket Le13ht
+Booking Reference No : BYT546011196
+
+Booking Date : 2019-11-10
+Booking Time : 21:44:49.217
+
+Your Taxi is Enroute
+Your Taxi Details :
+
+[Driver Name:Ahmed Yusuf,
+ Taxi Model:Toyota Prius White,
+ Taxi Number:TPW8192,
+ Driver Licence:AYL9123568]
+
+Fare As Advised: £5.0
+
+Fare For Journey : £7.78
+Additional Charges Incurred Per Additional Mile : £3.4
+Additional Charges Incurred Per Additional Minute Waiting Time : 0.2p
+
+
+ If the Passenger Books taxi Instantly with conditions (when date is 25th December or Christmas / 1st January or New Year) 
+i) if distance is more than 1 mile
+
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+yes
+
+*********Enter Booking Details*******
+
+Enter Passanger First Name : 
+Anurag.Jena
+Enter Passanger Mobile Number : 
+7498237899
+Enter City/Town : 
+Leicester
+Enter Journey Starting Point : 
+Brandon.Street
+Enter Starting Point PostCode : 
+Le46ay
+Enter Destination : 
+Charnwoods.Foods.Wigston
+Enter Destination PostCode : 
+Le20he
+Enter Journey Distance in Miles : 
+4.60
+Enter Waiting Time in Minutes : 
+2
+By Confirming Your Booking, You Accept to Agree To Terms and Conditions Of Book Your Taxi 
+Confirm Booking ? Yes or No 
+yes
+
+Booking Confirmed For Brandon.Street Le46ay to Charnwoods.Foods.Wigston Le20he
+Booking Reference No : BYT513283864
+Date: 2019-12-25 Time: 10:00:20.111
+
+View Booking Details (Yes/No)
+yes
+Passanger Name : Anurag.Jena
+Passanger Mobile Number : 7498237899
+Enter City/Town : Leicester
+Starting Point : Brandon.Street
+Starting Point PostCode : Le46ay
+Destination : Charnwoods.Foods.Wigston
+Destination PostCode : Le20he
+Journey Distance in Miles : 4.6 miles
+Alloted Waiting Time : 2.0 minutes
+
+Booking Confirmed For Brandon.Street Le46ay to Charnwoods.Foods.Wigston Le20he
+Booking Reference No : BYT513283864
+
+Booking Date : 2019-12-25
+Booking Time : 10:00:21.862
+
+Your Taxi is Enroute
+Your Taxi Details :
+
+[Driver Name:Ahmed Yusuf,
+ Taxi Model:Toyota Prius White,
+ Taxi Number:TPW8192,
+ Driver Licence:AYL9123568]
+
+Fare As Advised: £7.0
+
+Fare For Journey : £35.91
+Additional Charges Incurred Per Additional Mile : £2.8
+Additional Charges Incurred Per Additional Minute Waiting Time : 0.2p
+
+ii) If The distance is 0.7 miles which is less than 1 mile, holiday fare per half mile is induced , 
+
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+Yes
+
+*********Enter Booking Details*******
+
+Enter Passanger First Name : 
+Anurag.Jena
+Enter Passanger Mobile Number : 
+7498237899
+Enter City/Town : 
+Leicester
+Enter Journey Starting Point : 
+Brandon.Street
+Enter Starting Point PostCode : 
+Le46ay
+Enter Destination : 
+Yours.Supermarket
+Enter Destination PostCode : 
+le13ht
+Enter Journey Distance in Miles : 
+0.7
+Enter Waiting Time in Minutes : 
+0
+By Confirming Your Booking, You Accept to Agree To Terms and Conditions Of Book Your Taxi 
+Confirm Booking ? Yes or No 
+yes
+
+Booking Confirmed For Brandon.Street Le46ay to Yours.Supermarket le13ht
+Booking Reference No : BYT394449688
+Date: 2019-12-25 Time: 10:06:22.463
+
+View Booking Details (Yes/No)
+yes
+Passanger Name : Anurag.Jena
+Passanger Mobile Number : 7498237899
+Enter City/Town : Leicester
+Starting Point : Brandon.Street
+Starting Point PostCode : Le46ay
+Destination : Yours.Supermarket
+Destination PostCode : le13ht
+Journey Distance in Miles : 0.7 miles
+Alloted Waiting Time : 0.0 minutes
+
+Booking Confirmed For Brandon.Street Le46ay to Yours.Supermarket le13ht
+Booking Reference No : BYT394449688
+
+Booking Date : 2019-12-25
+Booking Time : 10:06:23.924
+
+Your Taxi is Enroute
+Your Taxi Details :
+
+[Driver Name:Ahmed Yusuf,
+ Taxi Model:Toyota Prius White,
+ Taxi Number:TPW8192,
+ Driver Licence:AYL9123568]
+
+Fare As Advised: £7.0
+
+Fare For Journey : £10.36
+Additional Charges Incurred Per Additional Mile : £4.8
+Additional Charges Incurred Per Additional Minute Waiting Time : 0.2p 
+
+
+
+If Passenger Wants to book taxi for a later date or future date
+	i) if distance is 4.6 miles which is more than 1 mile  The output is :
+
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+No
+Do You Want to Book A Taxi For a Future Date ? Enter Yes or No
+Yes
+
+*********Enter Booking Details*******
+
+Enter Passanger Name : 
+Anurag.Jena
+Enter Passanger Mobile Number : 
+7498237899
+Enter City/Town : 
+Leicester
+Enter Journey Date : 
+21/12/2019
+Enter Journey Starting Point : 
+Brandon.Street
+Enter Starting Point PostCode : 
+Le46ay
+Enter Destination : 
+Charnwoods.Wigston
+Enter Destination PostCode : 
+Le20he
+Enter Journey Distance in Miles : 
+4.6
+Enter Waiting Time in Minutes : 
+2
+By Confirming Your Booking, You Accept to Agree To Terms and Conditions Of Book Your Taxi 
+Confirm Booking ? Yes or No 
+yes
+
+Booking Confirmed For 21/12/2019
+Journey From Brandon.Street Le46ay to Charnwoods.Wigston Le20he
+Booking Reference No : BYT20117637
+Booking Date: 2019-11-10  Booking Time: 10:13:45.022
+
+View Booking Details (Yes/No)
+yes
+Passanger Name : Anurag.Jena
+Passanger Mobile Number : 7498237899
+Enter City/Town : Leicester
+Starting Point : Brandon.Street
+Starting Point PostCode : Le46ay
+Destination : Charnwoods.Wigston
+Destination PostCode : Le20he
+Journey Date : 21/12/2019
+Journey Distance in Miles : 4.6 miles
+Alloted Waiting Time : 2.0 minutes
+
+Journey From Brandon.Street Le46ay to Charnwoods.Wigston Le20he
+Booking Reference No : BYT20117637
+Booking Date : 2019-11-10
+Booking Time : 10:13:46.485
+
+Your Taxi Will be Dispatched on 21/12/2019
+Your Taxi Details Will be Sent To You On Your Journey Day
+2 Hours Before Your Start Time 
+
+Fare As Advised: £5.0
+
+Fare For Journey : £22.87
+Additional Charges Incurred Per Additional Mile : £1.6
+Additional Charges Incurred Per Additional Minute Waiting Time : 0.2p 
+
+
+ii) if distance is 0.7 miles which is less than 1 mile then Output is
+
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+no
+Do You Want to Book A Taxi For a Future Date ? Enter Yes or No
+yes
+
+*********Enter Booking Details*******
+
+Enter Passanger Name : 
+Anurag.Jena
+Enter Passanger Mobile Number : 
+7498237899
+Enter City/Town : 
+Leicester
+Enter Journey Date : 
+12/12/2019
+Enter Journey Starting Point : 
+Brandon.Street
+Enter Starting Point PostCode : 
+Le46ay
+Enter Destination : 
+Yours.Supermarket
+Enter Destination PostCode : 
+Le13ht
+Enter Journey Distance in Miles : 
+0.7
+Enter Waiting Time in Minutes : 
+0
+By Confirming Your Booking, You Accept to Agree To Terms and Conditions Of Book Your Taxi 
+Confirm Booking ? Yes or No 
+yes
+
+Booking Confirmed For 12/12/2019
+Journey From Brandon.Street Le46ay to Yours.Supermarket Le13ht
+Booking Reference No : BYT394609599
+Booking Date: 2019-11-10  Booking Time: 10:17:10.356
+
+View Booking Details (Yes/No)
+yes
+Passanger Name : Anurag.Jena
+Passanger Mobile Number : 7498237899
+Enter City/Town : Leicester
+Starting Point : Brandon.Street
+Starting Point PostCode : Le46ay
+Destination : Yours.Supermarket
+Destination PostCode : Le13ht
+Journey Date : 12/12/2019
+Journey Distance in Miles : 0.7 miles
+Alloted Waiting Time : 0.0 minutes
+
+Journey From Brandon.Street Le46ay to Yours.Supermarket Le13ht
+Booking Reference No : BYT394609599
+Booking Date : 2019-11-10
+Booking Time : 10:17:11.878
+
+Your Taxi Will be Dispatched on 12/12/2019
+Your Taxi Details Will be Sent To You On Your Journey Day
+2 Hours Before Your Start Time 
+
+Fare As Advised: £5.0
+
+Fare For Journey : £7.1
+Additional Charges Incurred Per Additional Mile : £3.0
+Additional Charges Incurred Per Additional Minute Waiting Time : 0.2p
+
+
+
+If enters Booking Details But Doesnot confirm Booking , The output is :
+
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+yes
+
+*********Enter Booking Details*******
+
+Enter Passanger First Name : 
+Anurag.Jena
+Enter Passanger Mobile Number : 
+7498237899
+Enter City/Town : 
+Leicester
+Enter Journey Starting Point : 
+Brandon.Street
+Enter Starting Point PostCode : 
+Le46ay
+Enter Destination : 
+Charnwoods.Wigston
+Enter Destination PostCode : 
+Le184zh
+Enter Journey Distance in Miles : 
+1.1
+Enter Waiting Time in Minutes : 
+0
+By Confirming Your Booking, You Accept to Agree To Terms and Conditions Of Book Your Taxi 
+Confirm Booking ? Yes or No 
+no
+Thank You For Visiting Book Your Taxi
+ Refresh Page For New Booking
+
+
+If the Customer Doesnot want to book any Taxi at all ,Then the output is :
+
+~~~~~~~~~~~~WWW.Book Your Taxi.UK~~~~~~~~~~
+
+
+Do You Want To Book a Taxi Now ? 
+ Enter Yes or No
+No
+Do You Want to Book A Taxi For a Future Date ? Enter Yes or No
+NO
+Thank You For Visiting Book Your Taxi ! 
+
+Recruitement : Drivers Required For Nottingham/Derby/Luton
+Interested Candidates Please Contact on +44-07587575510
+
+For Any Matter of Complain/Enquiry/Service
+Please Contact Our 24x7 Customer Services and Care.
+ We Are Always Happy To Help
+
+Your Feedback is Valuable For Us
+ Please Feel Free To Participate in Our Surveys and Provide Us With Your Suggestions
+
+                            View Cookies Policy                           
+                   © Book Your Taxi 2019. All Rights Reserved   
