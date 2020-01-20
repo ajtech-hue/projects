@@ -1,0 +1,41 @@
+Taxi Booking Journey (Code Explanation)
+
+The concept of the Approach and the code is based on the real-life implementation examples of taxi booking on a daily basis. 
+The rates and charges used are also based on real-life scenarios that have been referenced in the bibliography section if this document.
+As the name of the class suggests that the class is intended to induce a taxi booing concept into action the approach for this source code is kept radical, rational and ethical as much a possible. 
+The code uses various predefined class which of them mostly fall under predefined java package Utilities. 
+Some of them are Scanner, File writer, File output stream, File delete, local time, local date. 
+The class program defines necessary variables with predefined values to calculate the fare formula. 
+Class TaxiJourney is extended to subclass Driver and Subclass Passenger. 
+This shows concepts of inheritance, encapsulation, polymorphism and also to make sense to the code like ever booking will have a driver with a taxi and a passenger.
+The Test program Uses Scanner class to read user input for the booking details along with the Journey Distance in miles and Taxi Waiting time for the fare calculation.
+Therefore the Test program Uses a series of nested if, else if, else loops to check whether the booking date is a holiday which in this case is 25th December  Christmas or 1st January New Year.
+, if so then the loop checks the number of miles more than 1 mile or less than 1 mile and calculates fare accordingly.
+If the booking date is not on a holiday, on regular days the loop checks for booking time, if booking time is less than 8 pm or 20.00 hrs in evening then the fare calculated is based on regular day fare. 
+If time is more than 8 pm or 20.00 hrs in evening the fare is calculated based on the night fare charges set. 
+The users have the freedom not confirm the booking and even book later which calculates fare on regular fare basis.
+ And if the user does not book any taxi then the program shows the user, site details and site information.
+All the Outputs are printed instantly to console with a random booking reference number and driver details which is built using array list and called for a rational approach. 
+To keep a backup of booking all outputs are written to a file named Output.txt in the provided path for future references.
+
+Bibliography and References
+
+Taxifarefinder.com. (2019). How To Calculate Your Taxi Fare – TaxiFareFinder Newsroom. 
+[online] Available at: https://www.taxifarefinder.com/newsroom/2016/05/24/how-to-calculate-your-taxi-fare/ [Accessed 11 Nov. 2019].
+
+Getawaytips.azcentral.com. (2019). [online] Available at: 
+https://getawaytips.azcentral.com/how-to-calculate-taxi-fare-12192703.html [Accessed 11 Nov. 2019].
+
+nidirect. (2019). Taxi fares | nidirect. 
+[online] Available at: https://www.nidirect.gov.uk/articles/taxi-fares [Accessed 11 Nov. 2019].
+
+Esrl.noaa.gov. (2019). DOY Calendar. [online] 
+Available at: https://www.esrl.noaa.gov/gmd/grad/neubrew/Calendar.jsp [Accessed 11 Nov. 2019].
+
+W3schools.com. (2019). Java Date and Time. 
+[online] Available at: https://www.w3schools.com/java/java_date.asp [Accessed 11 Nov. 2019].
+
+www.javatpoint.com. (2019). Java FileWriter Class - javatpoint. [online] 
+Available at: https://www.javatpoint.com/java-filewriter-class [Accessed 11 Nov. 2019].
+
+
